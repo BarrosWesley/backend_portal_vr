@@ -2,7 +2,7 @@
 @get
 Funcionalidade: Realizar consulta no portal vr
 
-Eu, validar JSON retornado
+Validar JSON retornado
 pelo serviço que possui a chave “typeOfEstablishment” 
 
 @executa_get
